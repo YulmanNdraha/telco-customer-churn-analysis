@@ -96,9 +96,9 @@ Optimalkan fitur keamanan untuk meningkatkan retensi layanan internet
 
 📂 Struktur Folder
 
-Project_3 data analysis Telco Customer Churn.ipynb → Notebook analisis Python
+Project_3 data analysis Telco Customer Churn.ipynb. file pdf → Notebook analisis Python
 
-Project_3 data analysis Telco Customer Churn.pptx → Presentasi hasil analisis
+Project_3 data analysis Telco Customer Churn.pdf → Presentasi hasil analisis
 
 👤 Tentang Saya
 
